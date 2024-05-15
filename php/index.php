@@ -11,7 +11,7 @@
 </head>
 <?php include 'header.php' ?>
 <body>
-    
+    <h1 class="title">The Matinee</h1>
 </body>
 <?php include 'footer.php' ?>
 </html>

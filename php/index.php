@@ -12,6 +12,14 @@
 <?php include 'header.php' ?>
 <body>
     <h1 class="title">The Matinee</h1>
+    <div class="btn">
+        <a href="">
+            <button>Inscription</button>
+        </a>
+        <a href="">
+            <button>Connexion</button>
+        </a>
+    </div>
 </body>
 <?php include 'footer.php' ?>
 </html>

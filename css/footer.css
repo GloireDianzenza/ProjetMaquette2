@@ -1,0 +1,31 @@
+footer{
+    position: absolute;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-self: flex-end;
+    justify-content: flex-end;
+    margin-top: 50px;
+
+    left: 0;
+    bottom: -120px;
+}
+
+footer a{
+    color: black;
+}
+
+footer > div{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.links{
+    background-color: #d3d3d3;
+}
+.countries{
+    background-color: #c3c3c3;
+}

@@ -1,0 +1,18 @@
+charte graphique
+logo
+navbar - 3 items
+id visuelle + contexte
+galerie 6 films
+footer 3 blocs de lien
+barre pays
+
+page panier
+sélection produit -> Non,Prix,Quantité,Num confi
+bloc formulaire -> client,paiement,livraison
+bloc merci+réduction
+
+box-shadow,border,border-radius
+
+laptop - 1920
+tablette 1024
+mobile 390

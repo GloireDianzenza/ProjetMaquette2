@@ -13,10 +13,10 @@
 <body>
     <h1 class="title">The Matinee</h1>
     <div class="btn">
-        <a href="">
+        <a href="inscription.php">
             <button>Inscription</button>
         </a>
-        <a href="">
+        <a href="connexion.php">
             <button>Connexion</button>
         </a>
     </div>

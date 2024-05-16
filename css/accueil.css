@@ -1,0 +1,32 @@
+body{
+    padding-top: 110px;
+}
+
+.s1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.s1 > *{
+    width: 40%;
+}
+
+.s1 img{
+    width: 300px !important;
+}
+
+h1,h2{
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+}
+
+.s1 p{
+    font-weight: 400;
+    font-size: 30px;
+    width: 100% !important;
+}
+
+.s1 .right{
+    width: 100% !important;
+}
